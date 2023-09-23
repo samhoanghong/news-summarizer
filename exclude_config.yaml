@@ -1,0 +1,105 @@
+exclude_classes:
+  #themiamhurricane
+  - tdm-descr
+  - search-message
+  - screen-reader-text
+  - article-authors
+  - article-copyright
+  - thanks
+  - watch
+  - sailthru-signup-display-sub-message
+  - contact-submit
+  #bbc
+  - ssrcss-17zglt8-PromoHeadline e1f5wbog5
+  #usmagazine
+  - login-form__terms-conditions
+  - alert__subtitle js-alert-subtitle
+  - social-login__title
+  - social-login__legal
+  - password-requirements__title
+  - header-part-1
+  - header-part-2
+  - article-title-label
+  #innovationaus
+  - "end-text"
+  - "title-pagination"
+  #globalnews.ca
+  - "narrow"
+  - "c-readmore"
+  - "c-newsletterSignup__tagline"
+  #cbc and already exclude footer in the main code
+  - "media-showname"
+  #woodwardnews.net
+  - "text-center"
+  - "hidden-xs"
+  - "no-results text-muted"
+  - "text dark"
+  #6sqt
+  - "single-meta"
+  - "single-tag"
+  - "single-neighborhoods"
+  #bbc
+  - "nav-label" #navigation bar
+  #nypost
+  - "email-response__content"
+  #yahoo
+  - "M(0)"
+  #abcnews.go
+  - "LivePromotion--meta"
+  #nbcnews.com
+  - menu-section-heading
+  #DailyMail
+  - byline-section
+  - author-section
+  - byline-plain
+  - count-number
+  - count-text
+  - l-article__copyright
+  - copyright
+  #nytimes
+  - css-6yj280
+  - css-4m7ryc
+  #businessfacilities
+  - comment-form-cookies-consent
+  #venturebeat
+  - has-text-align-center
+  - sidebar-widget-featured-event-description
+  #holywoodreporter
+  - c-tagline
+  #CBS
+  - breaking-news__headline
+  - content__meta
+  
+  
+  
+
+
+exclude_div_footer:
+  #cbc
+  - "footerColumn"
+  #6sqft
+  - "footer-accessibility"
+  #ndtv.com
+  - "story_footer"
+  - add__wrp
+  #dailymail
+  - rc-content
+  - field house-rules
+  - ez-modal
+  - and-footer
+  
+  #q107
+  - l-article__meta
+  - author
+  #nytimes
+  - css-l9onyx
+  - css-19vbshk
+  #venturebeat
+  - post-boilerplate
+  #hollywoodreporter
+  - injected-related-story
+  - o-card__content
+  - newsletter-modal
+  - dvCopyRight
+
+
