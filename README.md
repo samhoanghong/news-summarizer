@@ -22,7 +22,7 @@ Key Features:
 
 ## Pipeline:
 
-- In the main.py, users input <topic>, <number of articles to generate>, <number of keywords>
+- In the main.py, users input topic, number of articles to generate, number of keywords
 
 - The program will connect to Bing Search API to collect the URLs, Title, Author, Data, etc.
 
